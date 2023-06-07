@@ -1,3 +1,4 @@
 new
 git
 123
+git commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amendgit commit --amend
