@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
+#include <iostream>qwer
+=======
 #include <iostream>
+>>>>>>> Stashed changes
 
 using namespace std;
 
